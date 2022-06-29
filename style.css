@@ -10,7 +10,7 @@
 
 .home-container {
     min-height: 100vh;
-    background: url(folders/bg2.jpg);
+    background: url(folders/bg3.jpg);
     background-size: cover;
     position: relative;
 }
@@ -32,6 +32,7 @@
     height: 45vh;
     top: 30vh;
     right: 20vh;
+    box-shadow: 12px 12px 10px #333;
 }
 
 .landing {
@@ -93,6 +94,7 @@
     font-size: 70px;
     font-family: 'Orbitron', sans-serif;
     line-height: 1.3em;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
 }
 
 .delivery-link {
@@ -145,7 +147,7 @@
 
 .delivery-icon {
     font-size: 73px;
-    color: rgb(173, 217, 129);
+    color: #C69D83;
 }
 
 .delivery-container .box-content {
@@ -175,7 +177,7 @@
     position: absolute;
     width: 45px;
     height: 7px;
-    background: rgb(173, 217, 129);
+    background: #C69D83;
     bottom: 0;
     box-shadow: 2px 2px 2px #00000060;
 }
